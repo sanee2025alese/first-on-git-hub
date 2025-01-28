@@ -1,0 +1,13 @@
+header{
+    height: 40px;
+    background: linear-gradient(to right, red,blue);
+    padding: 16px;
+    text-align: center;
+}
+/* THET shadow */
+
+h1{
+    /* text-shadow: 5px 3px green,10px 4px yellow; */
+    color: snow;
+    text-shadow: 5px 3px 5px yellow, 6px 4px 7px ;
+}
