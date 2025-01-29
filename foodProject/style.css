@@ -1,0 +1,53 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    
+}
+
+.page{
+    background-color: hsl(30, 54%, 90%);
+}
+.content{
+    height: 1550px;
+    width: 550px;
+    background-color: aliceblue;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+}
+img{
+    border-radius: 10px;
+    width: 100%;
+}
+.time{
+    height: 100px;
+    width: 100%px;
+    background-color: rgb(244, 232, 233);
+    padding-left: 55px;
+    margin-left: 5px;
+    border-radius: 15px;
+}
+#timeheader{
+    color: hsl(332, 51%, 32%);
+}
+h2{
+    color: hsl(14, 45%, 36%);
+}
+.ingredient{
+    padding: 20px;
+}
+
+.intruction{
+    padding: 40px;
+}
+.line{
+    display: flex;
+    border-bottom: 2px solid black;
+    margin: 25px;
+    padding: 1%;
+}
+.two{
+    
+}
